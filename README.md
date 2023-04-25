@@ -1,2 +1,2 @@
 <h1 align="center">SSW 540 Stevens ELC-LAB Website</h1>
-A Django website created for the ELC lab at Stevens Institute of Technology by my group as part of the final year project.
+<p align="center">A website created for the ELC lab at Stevens Institute of Technology using Django by my group as part of the semseter end project.</p>
