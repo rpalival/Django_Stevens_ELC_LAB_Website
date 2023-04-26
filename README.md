@@ -11,7 +11,7 @@
   </tr>
   <tr>
     <td><img src="Screenshots/Account Login.png" width=480 height=270></td>
-    <td><img src="screenshots/Screenshot_1582745125.png" width=480 height=270></td>
+    <td><img src="Screenshots/Student Information.png" width=480 height=270></td>
   </tr>
  </table>
  <table>
@@ -20,8 +20,8 @@
     <td>Student HomePage</td>
   </tr>
   <tr>
-    <td><img src="screenshots/Screenshot_1582745092.png" width=480 height=270></td>
-    <td><img src="screenshots/Screenshot_1582745125.png" width=480 height=270></td>
+    <td><img src="Screenshots/Attendance View.png" width=480 height=270></td>
+    <td><img src="Screenshots/Student Homepage.png" width=480 height=270></td>
   </tr>
  </table>
  <table>
@@ -30,8 +30,8 @@
     <td>Book Lab Slot View</td>
   </tr>
   <tr>
-    <td><img src="Screenshots/Account Login.png" width=480 height=270></td>
-    <td><img src="screenshots/Screenshot_1582745125.png" width=480 height=270></td>
+    <td><img src="Screenshots/Student Attendance View.png" width=480 height=270></td>
+    <td><img src="Screenshots/Book Lab Slot.png" width=480 height=270></td>
   </tr>
  </table>
   <table>
@@ -40,7 +40,7 @@
     <td>Change Password View</td>
   </tr>
   <tr>
-    <td><img src="Screenshots/Account Login.png" width=480 height=270></td>
-    <td><img src="screenshots/Screenshot_1582745125.png" width=480 height=270></td>
+    <td><img src="Screenshots/Cancel Lab Slot.png" width=480 height=270></td>
+    <td><img src="Screenshots/Change password.png" width=480 height=270></td>
   </tr>
  </table>
