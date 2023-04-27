@@ -44,3 +44,8 @@
     <td><img src="Screenshots/Change password.png" width=480 height=270></td>
   </tr>
  </table>
+
+#### How to make this website run on your system
+1. Clone the repository
+> git clone https://github.com/<username>/<forked-repo>.git
+2. Bullet list item 2
