@@ -47,5 +47,5 @@
 
 #### How to make this website run on your system
 1. Clone the repository
-> git clone https://github.com/<username>/<forked-repo>.git
+> git clone https://github.com/username/(forked-repo-name).git
 2. Bullet list item 2
