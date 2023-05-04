@@ -1,5 +1,18 @@
 <h1 align="center">SSW 540 Stevens ELC-LAB Website</h1>
 <p align="center">A website created for the ELC lab at Stevens Institute of Technology using Django by my group as part of the semseter end project.</p>
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/rpalival/SSW_540_Stevens_ELC_LAB_Website?style=plastic">
+
+#### The following technologies were used to build this website
+
+- Python3.11
+- Django
+- sqlLite3
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+
+#### How to run this website is given below:
 
 #### ELC-LAB Website Screenshots
 
