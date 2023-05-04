@@ -48,10 +48,20 @@
 #### How to make this website run on your system
 1. Clone the repository
 > git clone https://github.com/username/(forked-repo-name).git
-2. Install a virtual environment, if you don't already have one.
+2. Enter the cloned directory and install a virtual environment, if you don't already have one.
 > pip3 install virtualenv
 3. Create your own virtual environment and activate it
 > python3 -m venv venv
 
 > source venv/bin/activate
-4. 
+4. Install all the requirements
+> pip3 install -r requirements.txt
+5.Enter the website540 folder in which manage.py is present
+
+6. Run the website on local server
+> python3 manage.py runserver
+
+7. Student Login Credentials
+> username: rpalival | password: rpalival
+8. Admin Login Credentias
+> username: rpalival | password: 123456
