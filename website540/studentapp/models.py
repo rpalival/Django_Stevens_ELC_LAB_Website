@@ -42,3 +42,10 @@ UserInfo.objects.create(
     studentID="123456",
     classname="ELC",
 )
+UserInfo.objects.create(
+    username="harry",
+    password="harry",
+    accounttype="teacher",
+    studentID="123456",
+    classname="ELC",
+)
