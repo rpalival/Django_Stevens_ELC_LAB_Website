@@ -48,4 +48,10 @@
 #### How to make this website run on your system
 1. Clone the repository
 > git clone https://github.com/username/(forked-repo-name).git
-2. Bullet list item 2
+2. Install a virtual environment, if you don't already have one.
+> pip3 install virtualenv
+3. Create your own virtual environment and activate it
+> python3 -m venv venv
+
+> source venv/bin/activate
+4. 
